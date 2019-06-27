@@ -2,7 +2,7 @@
 
 ## 0.9.0 (upcoming)
 
-* Pending changelog
+* Timeout configurable in SSO Resolver
 
 ## 0.8.0 (June 27, 2019)
 
