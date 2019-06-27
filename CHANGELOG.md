@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.8.0 (upcoming)
+## 0.8.0 (June 27, 2019)
 
 * [FRAM-1731] added method findFrameworkId by serviceName
 * [FRAM-1429] Janithor Packaging Reviewed (added single jar with classifier)
